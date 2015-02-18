@@ -9,7 +9,7 @@ namespace SimpleNancyApplication.Modules
             Get["/"] = _ =>
             {
                 var model = new { title = "We've Got Issues..." };
-                return View["home", model];
+                return View["Home", model];
             };
         }
     }
