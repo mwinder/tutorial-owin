@@ -1,6 +1,6 @@
 ﻿using Nancy;
 
-namespace LearnOwin.Modules
+namespace SimpleNancyApplication.Modules
 {
     public class HomeModule : NancyModule
     {

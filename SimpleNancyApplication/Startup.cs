@@ -1,6 +1,6 @@
 ﻿using Owin;
 
-namespace LearnOwin
+namespace SimpleNancyApplication
 {
     public class Startup
     {
