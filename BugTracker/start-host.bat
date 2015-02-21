@@ -1,1 +1,1 @@
-..\packages\OwinHost.3.0.0\tools\OwinHost.exe
+..\packages\OwinHost.3.0.1\tools\OwinHost.exe
