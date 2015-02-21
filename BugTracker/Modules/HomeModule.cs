@@ -1,6 +1,6 @@
 ﻿using Nancy;
 
-namespace SimpleNancyApplication.Modules
+namespace BugTracker.Modules
 {
     public class HomeModule : NancyModule
     {

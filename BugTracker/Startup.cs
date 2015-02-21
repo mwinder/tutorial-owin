@@ -1,9 +1,9 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartup(typeof(SimpleNancyApplication.Startup))]
+[assembly: OwinStartup(typeof(BugTracker.Startup))]
 
-namespace SimpleNancyApplication
+namespace BugTracker
 {
     public class Startup
     {
